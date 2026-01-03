@@ -1,0 +1,178 @@
+StateSnapshot(values={
+  'messages': [
+    SystemMessage(content='You are a helpful assistant. Answer strictly in 1 sentences. Be concise and to the point.',
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      
+    },
+    id='49522d49-42be-4f08-a9ca-1f770d4c356b'),
+    HumanMessage(content='Hi my name is Crashlar ',
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      
+    },
+    id='dfd22678-b670-4c9c-9b0a-b76ca81bd6f6'),
+    AIMessage(content="Hello Crashlar, it's nice to meet you.",
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      'finish_reason': 'STOP',
+      'model_name': 'gemini-2.5-flash-lite',
+      'safety_ratings': [
+        
+      ],
+      'model_provider': 'google_genai'
+    },
+    id='lc_run--019b82c9-ac10-7102-b31b-da92cfef3131-0',
+    usage_metadata={
+      'input_tokens': 28,
+      'output_tokens': 12,
+      'total_tokens': 40,
+      'input_token_details': {
+        'cache_read': 0
+      }
+    }),
+    SystemMessage(content='You are a helpful assistant. Answer strictly in 1 sentences. Be concise and to the point.',
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      
+    },
+    id='0dec16b3-24f4-4b3a-a2cd-e1bcfcefcd22'),
+    HumanMessage(content='what is 10 by 3 ',
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      
+    },
+    id='db289520-b73d-4822-a7b7-2f1a98630689'),
+    AIMessage(content='10 divided by 3 is 3 with a remainder of 1.',
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      'finish_reason': 'STOP',
+      'model_name': 'gemini-2.5-flash-lite',
+      'safety_ratings': [
+        
+      ],
+      'model_provider': 'google_genai'
+    },
+    id='lc_run--019b82c9-d2f4-7990-bd0e-e3a682e4b145-0',
+    usage_metadata={
+      'input_tokens': 71,
+      'output_tokens': 16,
+      'total_tokens': 87,
+      'input_token_details': {
+        'cache_read': 0
+      }
+    }),
+    SystemMessage(content='You are a helpful assistant. Answer strictly in 1 sentences. Be concise and to the point.',
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      
+    },
+    id='869437ae-ff59-44b7-8b56-6a5938ff737e'),
+    HumanMessage(content='multiply result to 10 ',
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      
+    },
+    id='12a2556e-4d01-47c5-9b54-de4544b772fd'),
+    AIMessage(content='The result of multiplying 10 by 3 is 30.',
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      'finish_reason': 'STOP',
+      'model_name': 'gemini-2.5-flash-lite',
+      'safety_ratings': [
+        
+      ],
+      'model_provider': 'google_genai'
+    },
+    id='lc_run--019b82ca-07af-7491-b166-13df5e00ed4c-0',
+    usage_metadata={
+      'input_tokens': 116,
+      'output_tokens': 15,
+      'total_tokens': 131,
+      'input_token_details': {
+        'cache_read': 0
+      }
+    }),
+    SystemMessage(content='You are a helpful assistant. Answer strictly in 1 sentences. Be concise and to the point.',
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      
+    },
+    id='63d28c04-0883-47cb-aaec-75669319da90'),
+    HumanMessage(content='what is my name ',
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      
+    },
+    id='eb747439-1304-41db-ab15-4c02e53aed98'),
+    AIMessage(content='Your name is Crashlar.',
+    additional_kwargs={
+      
+    },
+    response_metadata={
+      'finish_reason': 'STOP',
+      'model_name': 'gemini-2.5-flash-lite',
+      'safety_ratings': [
+        
+      ],
+      'model_provider': 'google_genai'
+    },
+    id='lc_run--019b82ca-2609-7213-9819-97fd3ea50404-0',
+    usage_metadata={
+      'input_tokens': 158,
+      'output_tokens': 6,
+      'total_tokens': 164,
+      'input_token_details': {
+        'cache_read': 0
+      }
+    })
+  ]
+},
+next=(),
+config={
+  'configurable': {
+    'thread_id': '1',
+    'checkpoint_ns': '',
+    'checkpoint_id': '1f0e8770-cb44-6aad-800a-5da17d6eb157'
+  }
+},
+metadata={
+  'source': 'loop',
+  'step': 10,
+  'parents': {
+    
+  }
+},
+created_at='2026-01-03T07:37:26.037956+00:00',
+parent_config={
+  'configurable': {
+    'thread_id': '1',
+    'checkpoint_ns': '',
+    'checkpoint_id': '1f0e8770-beed-6882-8009-4fd548713959'
+  }
+},
+tasks=(),
+interrupts=())
+
